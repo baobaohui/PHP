@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36fc787f-24de-424f-9cb7-061b735b21ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - hhelp@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - hhelp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - hhelp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hhelp: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1YLGh3OasHAEiTXf0A4u3xP5Kpc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PHP/php.ini" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36fc787f-24de-424f-9cb7-061b735b21ef" name="Default Changelist" comment="" />
+      <created>1582714576546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582714576546</updated>
+      <workItem from="1582714579040" duration="1124000" />
+      <workItem from="1582717669929" duration="979000" />
+      <workItem from="1582719090664" duration="12710000" />
+      <workItem from="1582782817802" duration="4353000" />
+      <workItem from="1582806099217" duration="21000" />
+      <workItem from="1582806138156" duration="457000" />
+      <workItem from="1582806620781" duration="524000" />
+      <workItem from="1582807168258" duration="32000" />
+      <workItem from="1582808161115" duration="1633000" />
+      <workItem from="1582810470495" duration="181000" />
+      <workItem from="1582868417178" duration="1133000" />
+      <workItem from="1582872569447" duration="448000" />
+      <workItem from="1582873034758" duration="10529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="911" y="337" key="#CLI_Interpreters" timestamp="1582784182880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="911" y="337" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1582784182880" />
+    <state x="474" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582777646896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="474" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582777646896" />
+    <state x="1111" y="437" key="FileChooserDialogImpl" timestamp="1582783766718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1111" y="437" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582783766718" />
+    <state x="776" y="443" key="NewPhpFileDialog" timestamp="1582885624641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582885624641" />
+    <state x="589" y="257" key="SettingsEditor" timestamp="1582784189277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="257" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582784189277" />
+    <state x="854" y="194" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1582777690479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="854" y="194" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582777690479" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582873035809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582873035809" />
+    <state x="83" y="197" width="979" height="793" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1582784140396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="83" y="197" width="979" height="793" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582784140396" />
+    <state x="1014" y="298" width="672" height="678" key="search.everywhere.popup" timestamp="1582719828917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1014" y="298" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582719828917" />
+  </component>
+</project>

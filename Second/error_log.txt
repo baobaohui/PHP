@@ -1,0 +1,7 @@
+[29-Feb-2020 19:55:08 PRC] PHP Notice:  Undefined variable: v1 in D:\app\PhpStorm\PhpStormProject\Second\10error_logs.php on line 9
+[29-Feb-2020 19:55:08 PRC] PHP Warning:  include(.10no_this_file.php): failed to open stream: No such file or directory in D:\app\PhpStorm\PhpStormProject\Second\10error_logs.php on line 12
+[29-Feb-2020 19:55:08 PRC] PHP Warning:  include(): Failed opening '.10no_this_file.php' for inclusion (include_path='.;C:\php\pear') in D:\app\PhpStorm\PhpStormProject\Second\10error_logs.php on line 12
+[29-Feb-2020 19:55:08 PRC] PHP Fatal error:  Uncaught Error: Call to undefined function raund() in D:\app\PhpStorm\PhpStormProject\Second\10error_logs.php:15
+Stack trace:
+#0 {main}
+  thrown in D:\app\PhpStorm\PhpStormProject\Second\10error_logs.php on line 15

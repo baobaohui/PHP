@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>html代码和php代码分离</title>
+</head>
+
+姓名：<{$name}><br>
+年龄：<{$age}>
+<img src="" alt="">
+<br/>
+<hr/>
+123<p/>
+
+<hr>
+PHP时间戳：<{time()}> <br>
+Smarty时间戳:<{$smarty.now}><br>
+
+PHP时间戳格式化：<{date("Y-m-d H:i:s")}><br>
+Smarty时间戳格式化：<{$smarty.now|date_format:'%Y-%m-%d %H:%M:%S'}>
+<hr>
+<h2>foreach 遍历一维数组：适合程序员写法</h2>
+<{foreach $arr as $key=>$value}>
+$arr[<{$key}>] = <{$value}><br>
+<{/foreach}>
+<hr>
+<h2>foreach 遍历一维数组：适合美工人员写法</h2>
+<{foreach from=$arr key="key" item="value"}>
+$arr[<{$key}>] = <{$value}><br>
+<{/foreach}>
+
+<hr>
+<h2>foreach 遍历二维数组</h2>
+<table border="1">
+    <{foreach $arrs as $arr2}>
+    <tr>
+        <{foreach $arr2 as $value}>
+        <td><{$value}></td>
+        <{/foreach}>
+    </tr>
+    <{/foreach}>
+
+</table>
+
+<hr>
+<h2>foreach的常用属性</h2>
+<table border="1">
+    <{foreach $arr as $value}>
+    <{if $value@first}>
+    <tr>
+        <th>值</th>
+        <th>索引</th>
+        <th>从0开始计数</th>
+        <th>从1开始计数</th>
+        <th>是否为第1次循环</th>
+        <th>是否为最后一次循环</th>
+        <th>循环总次数</th>
+
+    </tr>
+    <{/if}>
+    <tr>
+        <td><{$value}></td>
+        <td><{$value@key}></td>
+        <td><{$value@index}></td>
+        <td><{$value@iteration}></td>
+        <td><{$value@first}></td>
+        <td><{$value@last}></td>
+        <td><{$value@total}></td>
+
+    </tr>
+    <{/foreach}>
+
+</table>
+
+<hr>
+<h2>section 循环一维数组</h2>
+<{section name='i' loop=$arrss}>
+<{$arrss[i]}>,
+<{/section}>
+
+<hr>
+<h2>section循环二维数组</h2>
+<table border="1">
+    <{section name='i' loop=$arrs}>
+    <tr>
+        <{section name='j' loop=$arrs[i]}>
+        <td><{$arrs[i][j]}></td>
+        <{/section}>
+    </tr>
+    <{/section}>
+</table>
+</body>
+</html>
